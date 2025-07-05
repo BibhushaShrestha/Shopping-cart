@@ -1,0 +1,20 @@
+.main-footer{
+    color: white;
+    background-color: rgb(228, 71, 144);
+    padding-top:0em;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    
+    
+}
+
+.row{
+    color:black;
+    padding: 4px 4px;
+}
+.col-sm{
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
